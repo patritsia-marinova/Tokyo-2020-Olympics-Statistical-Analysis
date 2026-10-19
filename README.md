@@ -53,14 +53,17 @@ This project strengthened my understanding of **data preparation, statistical mo
 
 ## Repository Structure
 
-| Folder | Contents |
+| Deliverable | Description |
 |---|---|
-| **01 – Olympics Analysis** | Final Jupyter Notebook, EDA, regression modelling and evaluation |
-| **02 – Presentation & Findings** | Final presentation, model comparison and conclusions |
-| **03 – Supporting Learning Exercises** | Preparatory statistics and regression exercises |
+| [**Olympics Analysis – Jupyter Notebook**](https://github.com/patritsia-marinova/Tokyo-2020-Olympics-Statistical-Analysis/blob/main/Olympics%20Analysis%20%2B%20Presentation/olympics_final.ipynb) | Data preparation, exploratory data analysis, linear regression modelling, and statistical evaluation |
+| [**Olympics Presentation**](https://github.com/patritsia-marinova/Tokyo-2020-Olympics-Statistical-Analysis/blob/main/Olympics%20Analysis%20%2B%20Presentation/olympics_presentation_v2.pptx) | Research questions, regression results, model comparison, and key findings |
+
+Both deliverables are located in the **Olympics Analysis + Presentation** folder.
 
 ## Project Outcome
 
-The analysis showed that both athlete count and discipline count were positively associated with Olympic medal totals, with athlete count showing the stronger relationship.
+The analysis identified statistically significant positive relationships between Olympic participation and medal totals, with athlete count showing a stronger association than discipline count.
 
-Through this project, I developed practical experience in **Python, exploratory data analysis, statistical analysis, and interpreting regression results**, providing a foundation for future Data Analytics and Machine Learning projects.
+By preparing datasets, conducting exploratory analysis, developing regression models, and evaluating statistical assumptions, I gained practical experience in **Python, data analytics, statistical modelling, and interpreting data-driven findings**.
+
+The project also strengthened my ability to critically evaluate statistical results and communicate conclusions, providing a foundation for future Data Analytics and Machine Learning projects.
